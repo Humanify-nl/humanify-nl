@@ -3,7 +3,7 @@
 This repo is a small public collection of my work, from the past five years as a solo dev.
 Some of it is new, some it is ported from my old bitbucket repo.
 
-#### Here you will find:
+#### Content:
 ```
 - Wordpress theme boilerplates
 - ACF implementation
