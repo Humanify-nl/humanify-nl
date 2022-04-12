@@ -1,6 +1,6 @@
 ### Hello there!
 
-This repo is a small public collection of my work, from the past five years as a solo dev.
+This repo is a small public collection of my work from the past five years as a solo dev.
 Some of it is new, some it is ported from my old bitbucket repo. I am currently (as of sept '21) reorganising and adding to this repo.
 
 #### Content:
